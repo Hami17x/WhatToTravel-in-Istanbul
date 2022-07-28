@@ -1,0 +1,163 @@
+[
+    {
+      "country": "Turkey",
+      "detail": {
+        "description":"",
+        "name": "Sultanahmet ",
+        "photoUrl": "https://cdn.pixabay.com/photo/2015/08/15/15/21/istanbul-889640_960_720.jpg",
+        "status": "In store",
+        "tags": [
+          {
+            "id": 0,
+            "name": "string"
+          }
+        ]
+      },
+      "lat": 41.00583045399886, 
+      "long": 28.97547338555373
+    },
+    {
+      "country": "Turkey",
+      "detail": {
+        "description":"tanım",
+        "name": "Dolmabahçe Palace",
+        "photoUrl": "https://cdn.pixabay.com/photo/2017/06/12/07/48/dolmabahce-palace-2394619_960_720.jpg",
+        "status": "In store",
+        "tags": [
+          {
+            "id": 0,
+            "name": "string"
+          }
+        ]
+      },
+      "lat": 41.03946321037105,
+      "long": 29.000481555631136
+    },
+    {
+      "country": "Turkey",
+      "detail": {
+        "description":"",
+        "name": "Hagia Sophia",
+        "photoUrl": "https://cdn.pixabay.com/photo/2013/11/23/18/40/hagia-sophia-216471_960_720.jpg",
+        "status": "In store",
+        "tags": [
+          {
+            "id": 0,
+            "name": "string"
+          }
+        ]
+      },
+      "lat": 41.00855239071009, 
+      "long": 28.97963160150614
+    },
+    {
+      "country": "Turkey",
+      "detail": {
+        "description":"",
+        "name": "Topkapı Palace Museum",
+"photoUrl" :"https://cdn.pixabay.com/photo/2015/12/15/15/12/istanbul-1094402_960_720.jpg",
+        "status": "In store",
+        "tags": [
+          {
+            "id": 0,
+            "name": "string"
+          }
+        ]
+      },
+      "lat": 41.01170570175402, 
+      "long": 28.983928755082403
+    },
+    {
+      "country": "Turkey",
+      "detail": {
+        "description":"",
+        "name": "Gülhane Park",
+        "photoUrl": "https://istanbeautiful.com/tr/wp-content/uploads/gulhane-park2.jpg",
+        "status": "In store",
+        "tags": [
+          {
+            "id": 0,
+            "name": "string"
+          }
+        ]
+      },
+      "lat":41.013397842210566, 
+      "long": 28.981510413891208
+    },
+    {
+      "country": "Turkey",
+      "detail": {
+        "description":"",
+        "name": "Galata Tower",
+        "photoUrl": "https://cdn.pixabay.com/photo/2017/11/29/17/47/venue-2986721_960_720.jpg",
+        "status": "In store",
+        "tags": [
+          {
+            "id": 0,
+            "name": "string"
+          }
+        ]
+      },
+      "lat": 41.025829283025054, 
+      "long": 28.97429118826934
+    },
+    {
+      "country": "Turkey",
+      "detail": {
+        "description":"",
+        "name": "Rahmi M.Koç Museum",
+        "photoUrl": "https://idsb.tmgrup.com.tr/ly/uploads/images/2020/03/22/26402.jpg",
+        "status": "In store",
+        "tags": [
+          {
+            "id": 0,
+            "name": "string"
+          }
+        ]
+      },
+      "lat": 41.0427289063695, 
+      "long": 28.949679372927417
+    },
+    {
+      "country": "Turkey",
+      "detail": {
+        "description":"",
+        "name": "Emirgan Park",
+        "photoUrl": "https://istanbeautiful.com/wp-content/uploads/emirgan-park3.jpg",
+        "status": "In store",
+        "tags": [
+          {
+            "id": 0,
+            "name": "string"
+          }
+        ]
+      },
+      "lat": 41.10850670994478, 
+      "long": 29.053480469166498
+    },
+    {
+      "country": "Turkey",
+      "detail": {
+        "description":"",
+        "name": "Miniaturk",
+        "photoUrl": "https://cdn.pixabay.com/photo/2019/02/14/21/21/istanbul-3997481_960_720.jpg",
+        "status": "In store",
+        "tags": [
+          {
+            "id": 0,
+            "name": "string"
+          }
+        ]
+      },
+      "lat": 41.05903743359342, 
+      "long": 28.949537780311843
+    }
+
+
+    
+   
+
+
+
+    
+  ]
